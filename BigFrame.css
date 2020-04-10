@@ -1,0 +1,20 @@
+
+
+div {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  height: 940px;
+}
+
+img {
+  width: 150px;
+  height: 100px;
+  border: 1px solid #000;
+}
+
+
+.fill {
+  object-fit: fill;
+}
